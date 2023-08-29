@@ -1,0 +1,47 @@
+
+estudiantes 0 StudentID,int,Age,double,Gender,str,6,Height,str,25,Weight,str,25,BloodType,str,3,BMI,str,25,Temperature,str,25,HeartRate,double,BloodPressure,double,Cholesterol,double,Diabetes,str,3,Smoking,str,3
+
+titanic 1 passengerid,int,survived,int,Pclass,int,Name,str,90,Sex,str,6,age,double,SibSp,int,Parch,int,Ticket,str,20,Fare,double,Cabin,str,20,Embarked,str,1
+perro 1 passengerid,int,survived,int,Pclass,int,Name,str,90,Sex,str,6,age,double,SibSp,int,Parch,int,Ticket,str,20,Fare,double,Cabin,str,20,Embarked,str,1
+
+movie 0 Movie,str,25,Extra,int,PatricC,int,Heather,int,PratricT,int,Thomas,int,aaron,int,vanessa,int,greg,int,brian,int,ben,int,Katherine,int,Jonathan,int,Zwe,int,Erin,int,Chris,int,Zak,int,Matt,int,Cris,int,Josh,int,Amy,int,Valerie,int,Gary,int,Stephen,int,Jessica,int,Jeff,int
+
+movie#26#Movie#str#25#Extra#int#PatricC#int#Heather#int#PratricT#int#Thomas#int#aaron#int#vanessa#int#greg#int#brian#int#ben#int#Katherine#int#Jonathan#int#Zwe#int#Erin#int#Chris#int#Zak#int#Matt#int#Cris#int#Josh#int#Amy#int#Valerie#int#Gary#int#Stephen#int#Jessica#int#Jeff#int
+titanic#1#passengerid#int#survived#int#Pclass#int#Name#str#90#Sex#str#6#age#double#SibSp#int#Parch#int#Ticket#str#20#Fare#double#Cabin#str#20#Embarked#str#1
+perro#1#passengerid#int#survived#int#Pclass#int#Name#str#90#Sex#str#6#age#double#SibSp#int#Parch#int#Ticket#str#20#Fare#double#Cabin#str#20#Embarked#str#1
+------------------------------------------------------------
+
+4,8,20,512,8
+v titanic 12 passengerid,int,survived,int,Pclass,int,Name,str,90,Sex,str,6,age,double,SibSp,int,Parch,int,Ticket,str,20,Fare,double,Cabin,str,20,Embarked,str,1
+v movie 26 Movie,str,25,Extra,int,PatricC,int,Heather,int,PratricT,int,Thomas,int,aaron,int,vanessa,int,greg,int,brian,int,ben,int,Katherine,int,Jonathan,int,Zwe,int,Erin,int,Chris,int,Zak,int,Matt,int,Cris,int,Josh,int,Amy,int,Valerie,int,Gary,int,Stephen,int,Jessica,int,Jeff,int
+movie 0 Movie,str,25,Extra,int,PatricC,int,Heather,int,PratricT,int,Thomas,int,aaron,int,vanessa,int,greg,int,brian,int,ben,int,Katherine,int,Jonathan,int,Zwe,int,Erin,int,Chris,int,Zak,int,Matt,int,Cris,int,Josh,int,Amy,int,Valerie,int,Gary,int,Stephen,int,Jessica,int,Jeff,int
+
+INSERT INTO movie Alien,,,2,,5,4,,,4,,,,,,2,,,4,3,,,2,5,,4
+
+
+INSERT INTO movie 
+INSERT INTO movie Alien,,,2,,5,4,,,4,,,,,,2,,,4,3,,,2,5,,4
+INSERT INTO movie Avatar,4,5,5,4,2,,4,3,,3,5,4,4,4,1,5,,,4,3,2,1,4,,4
+INSERT INTO movie Blade Runner,5,,,,5,4,,1,5,5,,,,,5,,,3,,3,3,1,,,5
+INSERT INTO movie Braveheart,4,,5,,4,4,3,4,4,,3,4,3,4,2,5,,4,,3,4,5,5,,4
+INSERT INTO movie Dodgeball,5,4,3,2,4,,4,5,3,4,5,5,3,3,3,3,,3,,4,3,4,3,,3
+INSERT INTO movie Forest Gump,4,5,4,3,3,,4,5,5,5,5,5,5,5,3,5,4,5,4,4,5,4,1,4,4
+INSERT INTO movie Gladiator,,5,5,,4,4,4,5,5,5,3,4,3,,3,5,,3,4,,3,3,4,,4
+INSERT INTO movie Jaws,,5,4,,4,,2,3,3,1,,3,2,3,2,,,5,5,3,2,4,2,3,5
+INSERT INTO movie Kazaam,2,,3,5,2,,,,1,,2,2,2,1,1,1,,,,1,1,1,,1,1
+INSERT INTO movie Lord of the Rings,4,4,3,2,,5,2,3,5,2,4,4,3,4,3,4,1,4,,,5,3,5,3,3
+INSERT INTO movie Napolean Dynamite,3,4,1,1,5,1,4,4,4,4,2,3,3,2,1,1,3,1,,2,5,4,2,2,3
+INSERT INTO movie Old School,3,,4,5,5,,3,5,4,4,,5,4,,5,5,,4,,3,3,5,,2,3
+INSERT INTO movie Pootie Tang,,,1,1,,,1,,1,1,,,2,,3,,,1,,,,,,,5
+INSERT INTO movie Pulp Fiction,,,4,,4,3,,4,5,4,,5,4,,5,5,,5,,4,3,3,3,4,3
+INSERT INTO movie Scarface,,4,,,5,4,4,4,,4,,4,,,3,3,,2,,,4,3,,,
+INSERT INTO movie Shawshank Redemption,5,,5,,,5,,5,5,5,,,4,,4,,,4,,2,5,5,,,
+INSERT INTO movie Snakes on a Plane,4,1,2,,4,,,,3,2,,,1,,3,,1,3,,2,1,2,,2,1
+INSERT INTO movie Spiderman,4,3,4,4,5,3,,4,4,4,5,3,4,3,2,3,3,2,4,3,5,2,3,3,4
+INSERT INTO movie Star Wars,5,5,4,5,5,3,3,5,5,5,5,5,4,3,4,5,,5,5,,5,5,5,5,5
+INSERT INTO movie The Dark Knight,4,5,5,4,4,,,4,4,5,,5,5,,3,5,,4,4,4,5,,4,5,5
+INSERT INTO movie The Happening,1,,,,1,,,,2,,,,1,,1,1,,,,,1,,1,,
+INSERT INTO movie The Matrix,3,4,3,5,4,4,4,4,5,4,4,5,4,4,4,5,,2,5,5,4,2,5,,5
+INSERT INTO movie Toy Story,4,3,3,4,4,5,4,5,5,5,5,5,4,5,3,4,4,4,4,4,5,4,4,5,5
+INSERT INTO movie Village,,2,3,1,1,,2,,4,3,,,4,,3,4,,1,4,,2,,2,,2
+INSERT INTO movie You Got Mail,1,,1,1,1,3,,,3,,,2,2,,,2,,1,,2,2,1,2,,2
